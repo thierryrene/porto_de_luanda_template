@@ -1,0 +1,19 @@
+{
+  "name": "template_html_porto_de_luanda",
+  "version": "1.0.0",
+  "description": "desenvolvendo novo template para o siste do grupo de maracatu porto de luanda.",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-uncss": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thierry rene matos | @thierryrenne | http://thierryrenewebdev.com",
+  "license": "ISC"
+}
